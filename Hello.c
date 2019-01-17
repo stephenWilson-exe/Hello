@@ -5,9 +5,14 @@
 *  A simple hello world program in C
 *
 */
-#include<stdlib.h>
+
 #include<stdio.h>
+
 int main(void) {
-printf("Stephen Wilson Electrical Engineering\n");
-return 0;
+	
+	printf("Stephen Wilson Electrical Engineering\n");
+	printf("Howdy Im Jesus Rivera III\n");
+	printf("My major is also Electrical Engineering");
+
+	return 0;
 }
